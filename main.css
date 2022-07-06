@@ -1,0 +1,33 @@
+html, label, input, .contactme, div, form, #box, #borderleft {
+    text-align: center;
+    padding: 2px;
+    font-family: Oswald, sans-serif;
+}
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display:table;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+form {
+    display: table;
+    margin: auto;
+}
+label {
+}
+input {
+}
+form  {
+    border: 1px solid #000000;
+}
+#box {
+    height: 2px;
+    width: 300px;
+    position: center;
+    margin: auto;
+} 
